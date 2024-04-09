@@ -1,6 +1,6 @@
 ---
 name: Issue report
-about: Create a report to help us improve
+about: Are you having an issue with the app? Report it here.
 title: "[Issue]"
 labels: bug
 assignees: TaimurAyaz
