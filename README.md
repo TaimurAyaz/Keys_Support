@@ -1,4 +1,4 @@
-![appIcon](https://github.com/TaimurAyaz/Keys_Support/assets/7026217/200b1d2c-01b3-4a20-9ccc-a1eb465e3d5c)
+<img src="https://github.com/TaimurAyaz/Keys_Support/assets/7026217/14a715fe-d2aa-4ef3-8413-a91377086aa6" width="48">
 
 # Keys App
 
